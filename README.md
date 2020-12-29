@@ -4,8 +4,8 @@ An autonomous inventorying system based on a smart drone.
 Made for DJI Tello EDU drone and a USB keyboard emulation RFID Reader.
 
 # Usage:
-1)Execute comp_com.py using Python 3
-2)Execute comp_nav.py using Python 2 after comp_com.py "Launch Drone" option is selected.
+1) Execute comp_com.py using Python 3
+2) Execute comp_nav.py using Python 2 after comp_com.py "Launch Drone" option is selected.
 
 # Features:
 Autonomous navigation:
