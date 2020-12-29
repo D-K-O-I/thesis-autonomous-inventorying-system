@@ -1,5 +1,6 @@
 # Thesis: Drones for Intralogistics using IoT
 An autonomous inventorying system based on a smart drone.
+By Guilherme Portela
 
 Made for DJI Tello EDU drone and a USB keyboard emulation RFID Reader.
 
