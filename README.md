@@ -4,8 +4,8 @@ An autonomous inventorying system based on a smart drone.
 Made for DJI Tello EDU drone and a USB keyboard emulation RFID Reader.
 
 # Usage:
-Execute comp_com.py using Python 3
-Execute comp_nav.py using Python 2 after comp_com.py "Launch Drone" option is selected.
+1)Execute comp_com.py using Python 3
+2)Execute comp_nav.py using Python 2 after comp_com.py "Launch Drone" option is selected.
 
 # Features:
 Autonomous navigation:
@@ -17,5 +17,5 @@ Autonomous navigation:
 
 Inventorying system:
   1) The inventorying system parses item or item storage unti RFID tag information and updates a locally stored database with their count and flags any misplaced items.
-  2) Direct access to the local database through a user interface.
+  2) Direct access to the local database through a user interface to add, remove or update items and nodes as well as retrieve a list of flagged items.
   3) Mock-up FTP implementation for use with a warehouse database network access point.
