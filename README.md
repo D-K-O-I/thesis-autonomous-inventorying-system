@@ -1,4 +1,5 @@
-# thesis-autonomous-inventorying-system
+# Thesis: Drones for Intralogistics using IoT
+An autonomous inventorying system based on a smart drone.
 
 Made for DJI Tello EDU drone and a USB keyboard emulation RFID Reader.
 
